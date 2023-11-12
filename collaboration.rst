@@ -28,10 +28,14 @@ Coding Standards
 ----------------
 
 4. **Coding Style(Per language):**
-   - Python: Follow the coding style and conventions defined in [style guide](https://www.python.org/doc/essays/styleguide/).                           
-   - JS, JSX, or TS: Follow the coding style and conventions defined in [eslint style guide](https://eslint.style/).
-   - C: Follow the coding style and conventions defined in [GNU Style guide](https://www.gnu.org/prep/standards/html_node/Writing-C.html).                          
-   - Others included in Google standards: Follow the coding style and conventions defined in [google style guide](https://google.github.io/styleguide/)(The above style guides overwrite these ones, i.e.: python).
+
+   - Python: Follow the coding style and conventions defined in `style guide <https://www.python.org/doc/essays/styleguide/>`_. 
+
+   - JS, JSX, or TS: Follow the coding style and conventions defined in `eslint style guide <https://eslint.style/>`_.
+
+   - C: Follow the coding style and conventions defined in `GNU Style guide <https://www.gnu.org/prep/standards/html_node/Writing-C.html>`_.  
+
+   - Others included in Google standards: Follow the coding style and conventions defined in `google style guide <https://google.github.io/styleguide/>`_ (The above style guides overwrite these ones, i.e.: python).
 
 5. **Commit Messages:**
    - Write clear and descriptive commit messages.
@@ -72,7 +76,7 @@ Security
 --------
 
 12. **Security Vulnerabilities:**
-    - Report security vulnerabilities privately through [contact@godjango.dev](mailto:contact@godjango.dev).
+    - Report security vulnerabilities privately through `contact@godjango.dev <mailto:contact@godjango.dev>`_.
     - Do not disclose security-related information in public discussions.
 
 We aim to maintain a clean, organized, and collaborative development environment by following these guidelines. If you have any questions or suggestions for improvement, feel free to open a discussion or contact godjangollc.
