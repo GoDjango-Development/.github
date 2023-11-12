@@ -76,10 +76,12 @@ Security
 --------
 
 12. **Security Vulnerabilities:**
+
     - Report security vulnerabilities privately through `contact@godjango.dev <mailto:contact@godjango.dev>`_.
+
     - Do not disclose security-related information in public discussions.
 
-We aim to maintain a clean, organized, and collaborative development environment by following these guidelines. If you have any questions or suggestions for improvement, feel free to open a discussion or contact godjangollc.
+We aim to maintain a clean, organized, and collaborative development environment by following these guidelines. If you have any questions or suggestions for improvement, feel free to open a discussion or contact us.
 
 Thank you for your contribution!
 
