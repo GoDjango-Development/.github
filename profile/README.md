@@ -1,3 +1,0 @@
-## GoDjango
-We are an enterprise focused on websites development and communication protocols developments...
-
