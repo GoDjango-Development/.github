@@ -1,7 +1,18 @@
 .. _godjango-development-profile:
 
-GoDjango LLC - Software Development Company
+GoDjango LLC
 ===========================================
+
+The people's software development company
+------------------------------------------
+
+.. image:: https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg
+    :target: https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md
+    :alt: We stand with Ukraine
+
+.. image:: https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg
+    :target: https://vshymanskyy.github.io/StandWithUkraine/
+    :alt: We stand with Ukraine
 
 Welcome to the official GitHub repository for GoDjango LLC, a dynamic software development company committed to delivering high-quality solutions. This organization, `godjango-development`, serves as a hub for our open-source projects, collaborations, and contributions to the developer community.
 
